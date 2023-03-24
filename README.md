@@ -1,3 +1,4 @@
+![logo](https://github.com/elviraSnexus/elviraSnexus/blob/main/ammar_cover.jpg)
 <h1 align="center">Hi 👋, I'm Ammar Khan</h1>
 <h3 align="center">Professional Web developer with 6+ years of expertise in MERN/MEAN/PHP stacks.</h3>
 
