@@ -8,10 +8,10 @@
 - http://boomfitt.co.uk
 - https://xstreamgym.com
 - https://houstonlimochauffeur.com
-- https://studio11barbershop.com
-- https://zylaz.com
+- https://palmhr-website.vercel.app
 - https://zenepal.io
-- https://app.esprame.com
+- https://staging-app.esprayme.com
+- www.magikk.com
 
 - 💬 Ask me about **Best stack fit for your project and requirements.**
 
