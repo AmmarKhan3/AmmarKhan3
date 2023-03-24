@@ -4,7 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarkhan3&label=Profile%20views&color=0e75b6&style=flat" alt="ammarkhan3" /> </p>
 
-- Hi I'm working with Snexus [My Projects are listed below](http://boomfitt.co.uk https://xstreamgym.com https://houstonlimochauffeur.com/ https://studio11barbershop.com/ https://zylaz.com/)
+- Hi I'm working with Snexus [My Projects are listed below]
+- http://boomfitt.co.uk
+- https://xstreamgym.com
+- https://houstonlimochauffeur.com
+- https://studio11barbershop.com
+- https://zylaz.com
+- https://zenepal.io
+- https://app.esprame.com
 
 - 💬 Ask me about **Best stack fit for your project and requirements.**
 
